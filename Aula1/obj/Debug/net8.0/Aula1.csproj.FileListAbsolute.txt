@@ -12,3 +12,4 @@ C:\Users\gmiel\OneDrive\Desktop\Topicos\Aula1\obj\Debug\net8.0\refint\Aula1.dll
 C:\Users\gmiel\OneDrive\Desktop\Topicos\Aula1\obj\Debug\net8.0\Aula1.pdb
 C:\Users\gmiel\OneDrive\Desktop\Topicos\Aula1\obj\Debug\net8.0\Aula1.genruntimeconfig.cache
 C:\Users\gmiel\OneDrive\Desktop\Topicos\Aula1\obj\Debug\net8.0\ref\Aula1.dll
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Aula1\obj\Debug\net8.0\Aula1.sourcelink.json
