@@ -1,16 +1,21 @@
 ﻿using System;
-namespace NamespaceProjeto2
+
+class Program
 {
-    class Temperatura
+    static void Main()
     {
-        static void Main()
+        Console.Write("Digite a temperatura em graus Celsius: ");
+        string input = Console.ReadLine();
+        
+        if (double.TryParse(input, out double celsius))
         {
-            double celsius = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
-            double celsius = Convert.ToDouble(Console.ReadLine());
-
-            double fahrenheit = (9 * celsius + 160) / 5;
-
-            Console.WriteLine($"A temperatura em graus Fahrenheit é: {fahrenheit}");
+            double fahrenheit = (9.0 / 5.0) * celsius + 32;
+            
+            Console.WriteLine($"A temperatura em graus Fahrenheit é: {fahrenheit:F2}");
+        }
+        else
+        {
+            Console.WriteLine("Por favor, insira um valor numérico válido.");
         }
     }
 }
