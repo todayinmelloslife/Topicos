@@ -3,3 +3,13 @@ C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto2\obj\Debug\net8.0\Projeto2.Assem
 C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto2\obj\Debug\net8.0\Projeto2.AssemblyInfo.cs
 C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto2\obj\Debug\net8.0\Projeto2.csproj.CoreCompileInputs.cache
 C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto2\obj\Debug\net8.0\Projeto2.sourcelink.json
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto2\bin\Debug\net8.0\Projeto2.exe
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto2\bin\Debug\net8.0\Projeto2.deps.json
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto2\bin\Debug\net8.0\Projeto2.runtimeconfig.json
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto2\bin\Debug\net8.0\Projeto2.dll
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto2\bin\Debug\net8.0\Projeto2.pdb
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto2\obj\Debug\net8.0\Projeto2.dll
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto2\obj\Debug\net8.0\refint\Projeto2.dll
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto2\obj\Debug\net8.0\Projeto2.pdb
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto2\obj\Debug\net8.0\Projeto2.genruntimeconfig.cache
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto2\obj\Debug\net8.0\ref\Projeto2.dll
