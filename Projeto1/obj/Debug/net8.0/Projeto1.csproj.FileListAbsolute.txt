@@ -1,0 +1,15 @@
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto1\bin\Debug\net8.0\Projeto1.exe
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto1\bin\Debug\net8.0\Projeto1.deps.json
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto1\bin\Debug\net8.0\Projeto1.runtimeconfig.json
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto1\bin\Debug\net8.0\Projeto1.dll
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto1\bin\Debug\net8.0\Projeto1.pdb
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto1\obj\Debug\net8.0\Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto1\obj\Debug\net8.0\Projeto1.AssemblyInfoInputs.cache
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto1\obj\Debug\net8.0\Projeto1.AssemblyInfo.cs
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto1\obj\Debug\net8.0\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto1\obj\Debug\net8.0\Projeto1.sourcelink.json
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto1\obj\Debug\net8.0\Projeto1.dll
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto1\obj\Debug\net8.0\refint\Projeto1.dll
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto1\obj\Debug\net8.0\Projeto1.pdb
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto1\obj\Debug\net8.0\Projeto1.genruntimeconfig.cache
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto1\obj\Debug\net8.0\ref\Projeto1.dll
