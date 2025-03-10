@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Lista1
+namespace Projeto1
 {
     class Program
     {
