@@ -1,98 +1,32 @@
-﻿using System;
-
+﻿using system;
 namespace Projeto6
 {
-    public class CalculadoraVolume
+    class Rpg
     {
-        public static double CalcularVolumeCubo(double lado)
+        static void Main(string[] args)
         {
-            if (lado <= 0)
+            Console.WriteLine("Bem vindo ao RPG!");
+            Console.WriteLine("Escolha seu personagem: ");
+            Console.WriteLine("1 - Guerreiro");
+            Console.WriteLine("2 - Mago");
+            Console.WriteLine("3 - Arqueiro");
+            int personagem = int.Parse(Console.ReadLine());
+            switch (personagem)
             {
-                throw new ArgumentException("O lado do cubo deve ser maior que zero.");
-            }
-            return Math.Pow(lado, 3);
-        }
-
-        public static double CalcularVolumeEsfera(double raio)
-        {
-            if (raio <= 0)
-            {
-                throw new ArgumentException("O raio da esfera deve ser maior que zero.");
-            }
-            return (4.0 / 3.0) * Math.PI * Math.Pow(raio, 3);
-        }
-
-        public static double CalcularVolumeCilindro(double raio, double altura)
-        {
-            if (raio <= 0 || altura <= 0)
-            {
-                throw new ArgumentException("O raio e a altura do cilindro devem ser maiores que zero.");
-            }
-            return Math.PI * Math.Pow(raio, 2) * altura;
-        }
-    }
-
-    class Aluno
-    {
-        public double[] Notas { get; set; }
-        public double[] Pesos { get; set; }
-
-        public Aluno()
-        {
-            Notas = new double[5];
-            Pesos = new double[5];
-        }
-
-        public void LerNotasEPesos()
-        {
-            Console.WriteLine("Digite as notas:");
-            for (int i = 0; i < 5; i++)
-            {
-                Console.Write("Nota {0}: ", i + 1);
-                Notas[i] = Convert.ToDouble(Console.ReadLine());
-            }
-
-            Console.WriteLine("Digite os 5 pesos:");
-            for (int i = 0; i < 5; i++)
-            {
-                Console.Write($"Peso {i + 1}: ");
-                Pesos[i] = Convert.ToDouble(Console.ReadLine());
-            }
-        }
-
-        public double CalcularMediaPonderada()
-        {
-            double somaNotas = 0;
-            double somaPesos = 0;
-
-            for (int i = 0; i < 5; i++)
-            {
-                somaNotas += Notas[i] * Pesos[i];
-                somaPesos += Pesos[i];
-            }
-
-            return somaNotas / somaPesos;
-        }
-
-        public void ImprimirNotas()
-        {
-            Console.WriteLine("Notas do aluno:");
-            for (int i = 0; i < 5; i++)
-            {
-                Console.WriteLine($"Nota {i + 1}: {Notas[i]}");
+                case 1:
+                    Console.WriteLine("Você escolheu o Guerreiro!");
+                    break;
+                case 2:
+                    Console.WriteLine("Você escolheu o Mago!");
+                    break;
+                case 3:
+                    Console.WriteLine("Você escolheu o Arqueiro!");
+                    break;
+                default:
+                    Console.WriteLine("Personagem inválido!");
+                    break;
             }
         }
     }
-
-    class Escola
-    {
-        static void Main()
-        {
-            Aluno aluno = new Aluno();
-            aluno.LerNotasEPesos();
-            aluno.ImprimirNotas();
-            double mediaPonderada = aluno.CalcularMediaPonderada();
-            Console.WriteLine($"A média ponderada é: {mediaPonderada}");
-        }
-    }
-}
+} 
+ 

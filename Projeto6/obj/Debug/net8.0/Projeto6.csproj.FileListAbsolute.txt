@@ -3,3 +3,13 @@ C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto6\obj\Debug\net8.0\Projeto6.Assem
 C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto6\obj\Debug\net8.0\Projeto6.AssemblyInfo.cs
 C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto6\obj\Debug\net8.0\Projeto6.csproj.CoreCompileInputs.cache
 C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto6\obj\Debug\net8.0\Projeto6.sourcelink.json
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto6\bin\Debug\net8.0\Projeto6.exe
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto6\bin\Debug\net8.0\Projeto6.deps.json
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto6\bin\Debug\net8.0\Projeto6.runtimeconfig.json
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto6\bin\Debug\net8.0\Projeto6.dll
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto6\bin\Debug\net8.0\Projeto6.pdb
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto6\obj\Debug\net8.0\Projeto6.dll
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto6\obj\Debug\net8.0\refint\Projeto6.dll
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto6\obj\Debug\net8.0\Projeto6.pdb
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto6\obj\Debug\net8.0\Projeto6.genruntimeconfig.cache
+C:\Users\gmiel\OneDrive\Desktop\Topicos\Projeto6\obj\Debug\net8.0\ref\Projeto6.dll
