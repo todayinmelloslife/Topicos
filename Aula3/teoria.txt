@@ -1,0 +1,31 @@
+Programação Orientada a Objetos (POO) é um paradigma de programação que utiliza "objetos" para representar dados e métodos. Esses objetos são instâncias de "classes", que podem ser vistas como moldes ou modelos que definem as características e comportamentos dos objetos.
+
+Classe:
+Uma classe é uma estrutura que define atributos (dados) e métodos (funções) que os objetos criados a partir dessa classe terão. Pense em uma classe como um plano ou uma receita.
+
+Objeto:
+Um objeto é uma instância de uma classe. Ele contém dados e pode executar funções definidas na classe. Cada objeto pode ter valores diferentes para os atributos definidos na classe.
+
+Exemplo de uma garagem:
+
+Classe: Carro
+Atributos: cor, modelo, ano
+Métodos: ligar, desligar, acelerar, frear
+
+Objeto: MeuCarro
+Atributos: cor = vermelho, modelo = sedan, ano = 2020
+Métodos: ligar(), desligar(), acelerar(), frear()
+
+Função ligar:
+Quando a função ligar() é chamada no objeto MeuCarro, o carro é ligado e está pronto para ser dirigido.
+
+Função desligar:
+Quando a função desligar() é chamada no objeto MeuCarro, o carro é desligado e não pode ser dirigido.
+
+Função acelerar:
+Quando a função acelerar() é chamada no objeto MeuCarro, o carro aumenta sua velocidade.
+
+Função frear:
+Quando a função frear() é chamada no objeto MeuCarro, o carro diminui sua velocidade ou para.
+
+Dessa forma, a Programação Orientada a Objetos permite organizar e estruturar o código de maneira mais intuitiva e modular, facilitando a manutenção e reutilização do código.
